@@ -23,11 +23,11 @@
     
     
     <entry>
-      <title>新年贺词</title>
-      <link href="/2022/01/01/%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D/"/>
-      <url>/2022/01/01/%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D/</url>
+      <title>Hello World</title>
+      <link href="/2022/04/04/hello-world/"/>
+      <url>/2022/04/04/hello-world/</url>
       
-        <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>及半个月以前我的个人博客因为我重灌系统崩溃后，我一直没有时间出重建，所以今天是2022年的第一天我重建了我的博客</p><h1 id="新年贺词·不太会说话"><a href="#新年贺词·不太会说话" class="headerlink" title="新年贺词·不太会说话"></a>新年贺词·不太会说话</h1><p>祝各位新年快乐，健康幸福，新年的一年里可以找到对象<br>祝愿我的舍友们早日脱单<br>···················<br>如果可以的话可以算上我么？</p><h1 id="最后选一张优美的的图片送给各位"><a href="#最后选一张优美的的图片送给各位" class="headerlink" title="最后选一张优美的的图片送给各位"></a>最后选一张优美的的图片送给各位</h1><p> <img src="/2022/01/01/%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D/1.jpg" alt="虎年大吉"></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
@@ -36,11 +36,30 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/01/01/hello-world/"/>
-      <url>/2022/01/01/hello-world/</url>
+      <title>软件推荐</title>
+      <link href="/2022/01/03/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+      <url>/2022/01/03/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="windows软件推荐"><a href="#windows软件推荐" class="headerlink" title="windows软件推荐"></a>windows软件推荐</h1><p>本此软件推荐基于win10专业版系统</p><h2 id="浏览器"><a href="#浏览器" class="headerlink" title="浏览器"></a>浏览器</h2><p>  <strong>1.</strong> 微软官方出品的<strong>edge浏览器</strong><br>  优势：<br>系统自带无需自行安装<br>带有插件商店无需特殊方法即可下载主流插件<br>与系统outlook邮箱绑定的同步功能，方便更换电脑后的同步。<br>占用内存小<br>但是没有个性化的主题<br><strong>2.</strong> google公司的chrome浏览器<br>评价：<br>主流并且功能强大，并且开放<br>应用商店带有很多漂亮的皮肤<br>但是应用商店需要魔法</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>新年贺词</title>
+      <link href="/2022/01/01/%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D/"/>
+      <url>/2022/01/01/%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D/</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>及半个月以前我的个人博客因为我重灌系统崩溃后，我一直没有时间出重建，所以今天是2022年的第一天我重建了我的博客</p><h1 id="新年贺词·不太会说话"><a href="#新年贺词·不太会说话" class="headerlink" title="新年贺词·不太会说话"></a>新年贺词·不太会说话</h1><p>祝各位新年快乐，健康幸福，新年的一年里可以找到对象<br>祝愿我的舍友们早日脱单<br>···················<br>如果可以的话可以算上我么？</p><h1 id="最后选一张优美的的图片送给各位"><a href="#最后选一张优美的的图片送给各位" class="headerlink" title="最后选一张优美的的图片送给各位"></a>最后选一张优美的的图片送给各位</h1><p> <img src="/2022/01/01/%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D/1.jpg" alt="虎年大吉"></p>]]></content>
       
       
       
